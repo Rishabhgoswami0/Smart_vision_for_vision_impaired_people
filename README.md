@@ -8,12 +8,14 @@
 5. [Working Framework](#working-framework)
 6. [Implementation](#implementation)
 7. [Methodology](#methodology)
-8. [System Testing](#system-testing)
-9. [Results](#results)
-10. [Features](#features)
-11. [Merits and Limitations](#merits-and-limitations)
-12. [Future Scope](#future-scope)
-13. [Conclusion](#conclusion)
+8. [Concept Diagram](#concept-diagram)
+9. [Work Flow](#work-flow)
+10. [System Testing](#system-testing)
+11. [Results](#results)
+12. [Features](#features)
+13. [Merits and Limitations](#merits-and-limitations)
+14. [Future Scope](#future-scope)
+15. [Conclusion](#conclusion)
 
 ---
 
@@ -186,17 +188,20 @@ The detected text is stored, and the scrible.writing() function is called to wri
 
 ### Concept Diagram 
 
-![BConcept Diagram](https://drive.google.com/file/d/1-AsuiTRV3nr2bNaVfyWgetFrC0McSGff/view?usp=sharing)
+![BConcept Diagram](https://github.com/Rishabhgoswami0/Smart_vision_for_vision_impaired_people/blob/main/img/cocptflow.png)
 ### System Testing
 1. **Picture Capturing**: Tests camera functionality and quality of image capture.
 2. **Face and Text Recognition**: Assesses accuracy of face and text detection.
 3. **Text-to-Voice**: Verifies text-to-speech audio clarity and functionality.
+### work flow 
 
+![work flow](https://github.com/Rishabhgoswami0/Smart_vision_for_vision_impaired_people/blob/main/img/wrkflow.png)
 ### Results
 The Smart Vision system successfully:
 - Recognizes and names familiar faces.
+- ![image recognition](https://github.com/Rishabhgoswami0/Smart_vision_for_vision_impaired_people/blob/main/img/imgrecog.png)
 - Reads English text and provides audio feedback for visually impaired users.
-
+- ![image recognition](https://github.com/Rishabhgoswami0/Smart_vision_for_vision_impaired_people/blob/main/img/txtrecog.png)
 ---
 
 ### Features

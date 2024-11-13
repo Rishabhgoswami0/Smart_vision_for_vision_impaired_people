@@ -1,4 +1,5 @@
 # Smart Vision: Assistive Technology for the Visually Impaired
+Smart Vision is a system designed to empower blind individuals by enabling them to perceive their surroundings through audio feedback. It combines face recognition and text extraction into a single device, allowing users to identify people and read text through a Raspberry Pi-based platform.
 ![smart vision img](https://github.com/Rishabhgoswami0/Smart_vision_for_vision_impaired_people/blob/main/img/smartvision.webp)
 ## Table of Contents
 1. [Abstract](#abstract)

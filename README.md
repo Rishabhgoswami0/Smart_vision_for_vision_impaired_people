@@ -1,5 +1,5 @@
 # Smart Vision: Assistive Technology for the Visually Impaired
-
+![smart vision img](https://github.com/Rishabhgoswami0/Smart_vision_for_vision_impaired_people/blob/main/img/smartvision.webp)
 ## Table of Contents
 1. [Abstract](#abstract)
 2. [Introduction](#introduction)
